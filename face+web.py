@@ -5,7 +5,7 @@ import webbrowser
 import time
 
 
-gmail="https://mail.google.com/mail/u/0/#inbox"
+gmail="https://mail.google.com/"
 youtube="https://www.youtube.com/channel/UCJPihOKkiT7TqP7NK9-GtuQ?view_as=subscriber"
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml") 
   
